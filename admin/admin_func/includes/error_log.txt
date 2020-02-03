@@ -1,0 +1,7 @@
+[03-Aug-2019 12:45:48 Europe/Moscow] PHP Notice:  Undefined variable: id in /home/a0077988/domains/dolina.eco/public_html/admin/admin_func/functions.php on line 26
+[03-Aug-2019 12:46:04 Europe/Moscow] PHP Notice:  Undefined variable: id in /home/a0077988/domains/dolina.eco/public_html/admin/admin_func/functions.php on line 26
+[03-Aug-2019 12:51:25 Europe/Moscow] PHP Notice:  Undefined variable: id in /home/a0077988/domains/dolina.eco/public_html/admin/admin_func/functions.php on line 29
+[03-Aug-2019 12:52:12 Europe/Moscow] PHP Notice:  Undefined variable: id in /home/a0077988/domains/dolina.eco/public_html/admin/admin_func/functions.php on line 29
+[07-Aug-2019 00:57:13 Europe/Moscow] PHP Notice:  Undefined index: function in /home/a0077988/domains/dolina.eco/public_html/admin/admin_func/delete_category.php on line 9
+[07-Aug-2019 00:57:55 Europe/Moscow] PHP Notice:  Undefined index: function in /home/a0077988/domains/dolina.eco/public_html/admin/admin_func/delete_category.php on line 9
+[07-Aug-2019 00:57:58 Europe/Moscow] PHP Notice:  Undefined index: function in /home/a0077988/domains/dolina.eco/public_html/admin/admin_func/delete_category.php on line 9
