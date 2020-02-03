@@ -1,0 +1,1 @@
+[22-Nov-2019 16:36:01 Europe/Moscow] PHP Notice:  A session had already been started - ignoring session_start() in /home/a0077988/domains/verria.ru/public_html/functions/functions.php on line 3
